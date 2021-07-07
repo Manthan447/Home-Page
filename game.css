@@ -46,3 +46,21 @@ text-align: left;
 	height: 20%;
 	width: 20%;
 }
+#question_turn{
+	color: white;
+}
+#answer_turn{
+	color: white;
+}
+#player_1{
+	color: white;
+}
+#player_2{
+	color: white;
+}
+#player1_score{
+	color: white;
+}
+#player2_score{
+	color: white;
+}
